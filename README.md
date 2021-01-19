@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 ## Misc
 
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white">
+
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
